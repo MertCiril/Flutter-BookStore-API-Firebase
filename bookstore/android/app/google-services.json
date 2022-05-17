@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2476102984",
+    "project_id": "gencyazarlar-1fa3e",
+    "storage_bucket": "gencyazarlar-1fa3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2476102984:android:6a63d8a64934331f804f7d",
+        "android_client_info": {
+          "package_name": "com.example.kayip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2476102984-u4jd782706tkvd0jsr9el6f0v7f2t318.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4CScPo_bV-IyPm1O_bGxU-PEU0Xt1bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2476102984-u4jd782706tkvd0jsr9el6f0v7f2t318.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
